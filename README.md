@@ -1,5 +1,5 @@
 # MAC-Spoofer
-    Spoofs the Physical address.
+    A Simple python program which spoofs the Physical address.
     
 ## Installation 
 
