@@ -7,6 +7,8 @@
     
 ## Execution
 
-   1.) python3 main.py
-   
-   2.) Your Mac-Address is spoofed.
+    1.) Execute main.py file with root privileges.
+    
+        sudo python3 main.py 
+     
+    2.) Your Mac-Address is spoofed.
